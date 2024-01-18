@@ -87,7 +87,7 @@ fun Greeting() {
             }
 
             Button(modifier = Modifier
-                .weight(2f)
+                .weight(1f)
                 .padding(horizontal = 16.dp), onClick = {
                 // Do something
             }) {
